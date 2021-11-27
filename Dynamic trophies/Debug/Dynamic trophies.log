@@ -1,0 +1,8 @@
+﻿  main.cpp
+Z:\Other\Homework\Third Year College\Second semester\CS2250\Project_ Dynamic Trophies Starter Code\main.cpp(85,20): warning C4018:  '<': signed/unsigned mismatch
+Z:\Other\Homework\Third Year College\Second semester\CS2250\Project_ Dynamic Trophies Starter Code\main.cpp(118,21): warning C4101:  'e': unreferenced local variable
+Z:\Other\Homework\Third Year College\Second semester\CS2250\Project_ Dynamic Trophies Starter Code\main.cpp(228,20): warning C4018:  '<': signed/unsigned mismatch
+Z:\Other\Homework\Third Year College\Second semester\CS2250\Project_ Dynamic Trophies Starter Code\main.cpp(286,21): warning C4101:  'e': unreferenced local variable
+Z:\Other\Homework\Third Year College\Second semester\CS2250\Project_ Dynamic Trophies Starter Code\main.cpp(303,20): warning C4018:  '<': signed/unsigned mismatch
+Z:\Other\Homework\Third Year College\Second semester\CS2250\Project_ Dynamic Trophies Starter Code\main.cpp(345,20): warning C4018:  '<': signed/unsigned mismatch
+  Dynamic trophies.vcxproj -> Z:\Other\Homework\Third Year College\Second semester\CS2250\Project_ Dynamic Trophies Starter Code\Dynamic Trophies\Debug\Dynamic trophies.exe
